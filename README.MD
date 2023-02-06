@@ -15,4 +15,10 @@ go run variables.go
 - Maps   : Maps are like dictionaries, key and values may vary
 - Slices : Slices like a simple array in python with no initialization size
 
+
+## 06-POO: As other languages, Go works in a different way.
+- Struct -> A model
+- Propierties -> Attributes
+- Methods -> Behavior
+- Objects -> Objects
 ## ...pending descriptions
