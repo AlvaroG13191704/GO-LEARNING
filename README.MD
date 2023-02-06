@@ -1,5 +1,5 @@
 # Learning Go Land
-> If you want to run any file, just go inside of the file where is located then run this command in the powershell or bash.
+> If you want to run any file, go inside the file where is located then run this command in the PowerShell or bash.
 ```
 cd 01-introduction/variables/ 
 go run variables.go
